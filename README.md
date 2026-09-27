@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓 Enrolled for Undergrad in Artificial Intelligence and Data Science<br>👯 I’m looking to collaborate on Cool Projects<br>⚡ Self Taught Full Stack & Mobile Developer<br>🌱 Like everyone else currently exploring AI, ML, DL. 
+👨🏻‍🎓 Enrolled for MS in Computer Science <br>👯 I’m looking to collaborate on Cool Projects<br>⚡ Self Taught Full Stack & Mobile Developer<br>🌱 Like everyone else currently exploring AI, ML, DL. 
 
 
 ## 🌐 Socials:
